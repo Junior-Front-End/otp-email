@@ -1,0 +1,25 @@
+{
+  "name": "otp-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "nodemon -e js --watch server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Junior-Front-End/otp-email.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Junior-Front-End/otp-email/issues"
+  },
+  "homepage": "https://github.com/Junior-Front-End/otp-email#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "sib-api-v3-sdk": "^8.2.0"
+  }
+}
