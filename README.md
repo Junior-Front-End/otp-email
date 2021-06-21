@@ -4,10 +4,9 @@
 
 <div dir="rtl">
 
-
-
-[مقاله مرتبط]()
-را بخوانید!
+ریپوسیتوری 
+  [bez-otp-email](https://github.com/Junior-Front-End/bez-otp-email) 
+  مانند همین ریپوسیتوری از رمز یکبار مصرف استفاده کرده است. 
 
 ## راه اندازی
 
